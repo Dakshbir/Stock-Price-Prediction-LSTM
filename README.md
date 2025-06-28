@@ -191,9 +191,9 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 
 For any questions or suggestions, please reach out to:
 
-- **Name**: Abhinav Navneet
-- **Email**: mailme.AbhinavN@gmail.com
-- **GitHub**: [AjNavneet](https://github.com/AjNavneet)
+- **Name**: Dakshbir Singh Kapoor
+- **Email**: dakshbirkapoor@gmail.com
+- **GitHub**: [Dakshbir](https://github.com/Dakshbir)
 
 ---
 
