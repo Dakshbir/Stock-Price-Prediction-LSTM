@@ -19,8 +19,7 @@ Accurately forecasting stock prices empowers investors, traders, and analysts to
 11. [Results & Analysis](#results--analysis)
 12. [Future Work](#future-work)
 13. [Contributing](#contributing)
-14. [License](#license)
-15. [Contact](#contact)
+14. [Contact](#contact)
 
 ---
 
